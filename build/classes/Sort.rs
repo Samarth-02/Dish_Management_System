@@ -1,0 +1,10 @@
+dishNameCompare
+idNoCompare
+DishData
+prizeCompare
+qualityCompare
+Sort$1
+Sort
+indCompare
+idCompare
+Sort$2
